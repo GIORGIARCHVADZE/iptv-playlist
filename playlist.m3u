@@ -19697,7 +19697,7 @@ https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="GulliGirl.ru@SD" tvg-logo="https://i.imgur.com/lbViDuC.png" ,Gulli Girl (720p)
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="History2.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" ,History 2 (Russia) (1080p)
+#EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="History2.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" ,History 2 (1080p)
 http://str2.iptvhd.ru:8080/H2_HD/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="Hit.ru@HD" tvg-logo="https://i.imgur.com/jl3MNPe.png" ,Hit HD (1080p)
 http://hls127.freeott.top:8080/XitHD/video.m3u8
@@ -20401,6 +20401,10 @@ http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="vijuTV1000action.ru@SD" tvg-logo="https://i.imgur.com/TMmyuzh.png" ,viju TV1000 action (576p)
 http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="vijuTV1000novella.ru@HD" tvg-logo="https://www.cableman.ru/sites/default/files/viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_color_rgb_02%20%281%29.png" ,viju TV1000 novella HD (1080p)
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="vijuTV1000romantica.ru@HD" tvg-logo="https://rnnxdki1nv.a.trbcdn.net/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/flo59mr6lh1jf68g3021urgwtd5k" ,viju TV1000 romantica HD (1080p)
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="vijuTV1000russkoe.ru@SD" tvg-logo="https://i.imgur.com/Meak2y4.png" ,viju TV1000 russkoe (576p)
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" ,viju+ Comedy HD (1080p)
@@ -20505,12 +20509,6 @@ http://88.212.15.19/live/test_arenasport/playlist.m3u8
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="ArenaSport5Premium.rs@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" ,Arena Sport 5 Premium
 https://nl1.nghk.ai/SK2SRHD/index.m3u8
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="ArenaSportPremiumM1.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" ,Arena Sport Premium M1
-https://racitonsen.s.gy/AM1P
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="ArenaSportPremiumM2.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m2.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" ,Arena Sport Premium M2
-https://racitonsen.s.gy/AM2P
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="ArenaSportPremiumM3.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m3.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" ,Arena Sport Premium M3
-https://racitonsen.s.gy/AM3P
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="Arryadia.ma@SD" tvg-logo="https://i.imgur.com/XjzK3gZ.png" ,Arryadia (720p)
 http://149.100.11.252:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="AS3SportTV.ve@SD" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" ,AS3 Sport TV (1080p)
@@ -20549,8 +20547,6 @@ https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="BilliardTV.us@SD" tvg-logo="https://i.imgur.com/BZijfKh.png" ,Billiard TV (1080p) [Geo-blocked]
 https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="BilliardsTV.kr@SD" tvg-logo="https://i.imgur.com/fo1k0Oj.png" ,Billiards TV [Geo-blocked]
-https://xyktmobile00.s.gy/PPV942_BILLIARD
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="BoksTV.ru@SD" tvg-logo="https://i.imgur.com/R1UjyfX.png" ,Boks TV (720p)
 http://31.148.48.15/Boks_TV/index.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="BrondbyTV.se@DK" tvg-logo="https://images.pluto.tv/channels/685029cda1e091e16ff57fc8/colorLogoPNG_1750246109707.png" ,Brondby TV
@@ -20791,8 +20787,6 @@ https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="Kabaddi24x7.in@SD" tvg-logo="https://papaji.freetvindia.com/media/kabaddi_24x7.png" ,Kabaddi 24x7 (576p)
 http://180.188.254.253/live/KABADDI24X7.m3u8
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="KBSNSports.kr@SD" tvg-logo="https://i.imgur.com/xZ2s9eY.png" ,KBS N Sports [Geo-blocked]
-https://xyktmobile00.s.gy/PPV919_KBSNSPO_SD
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="KHL.ru@SD" tvg-logo="https://i.imgur.com/RgdHdOV.png" ,KHL (720p)
 http://31.148.48.15/KHL_TV/index.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="KHLPrime.ru@HD" tvg-logo="https://i.imgur.com/pwxT0ON.png" ,KHL Prime (1080p)
@@ -20973,18 +20967,10 @@ https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
 https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="PolsatSportFight.pl@SD" tvg-logo="https://i.imgur.com/8x1FV3o.png" ,Polsat Sport Fight
 http://92.114.85.87:8016/play/a00b/index.m3u8
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="PolsatSportPremium1.pl@SD" tvg-logo="https://i.imgur.com/hy1SKE0.png" http-user-agent="Enigma2" ,Polsat Sport Premium 1
-https://racitonsen.s.gy/PSP1_SHD
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="PolsatSportPremium2.pl@SD" tvg-logo="https://i.imgur.com/myyWeXY.png" http-user-agent="Enigma2" ,Polsat Sport Premium 2
-https://racitonsen.s.gy/PSP2_SHD
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="PremierFootball.ph@SD" tvg-logo="https://i.imgur.com/lKjXwtG.png" ,Premier Football
-https://racitonsen.s.gy/PREMIER_FOOTBALL
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="PremierSports2.ph@SD" tvg-logo="https://i.imgur.com/UQeXWd2.png" ,Premier Sports 2 (1086p)
-https://racitonsen.s.gy/PS2PH
+#EXTINF:-1 group-title="⚽ Sports" tvg-id="PremierSports2.ph@SD" tvg-logo="https://i.imgur.com/UQeXWd2.png" ,Premier Sports 2 (1080p)
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="PremierSports.ph@SD" tvg-logo="https://i.imgur.com/BURPHzI.png" ,Premier Sports (1080p)
 https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="PremierSports.ph@HD" tvg-logo="https://i.imgur.com/BURPHzI.png" ,Premier Sports HD
-https://racitonsen.s.gy/PS1PH
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="PrimaSport5.ro@SD" tvg-logo="https://www.media-max.ro/wp-content/uploads/2022/11/Prima-Sport-5-HD-disponibil-in-grila-Vodafone.jpg" http-user-agent="Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36" ,Prima Sport 5 (480p)
 https://dokagents.site/live/pr5/mono.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="Prime.sy@HD" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/12/7-1.png" ,Prime (Syria) (1080p)
@@ -21049,8 +21035,6 @@ https://corestream.siteyaptim.live/s-sport2/index.m3u8
 https://corestream.siteyaptim.live/s-sport/index.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="SanMarinoRTVSport.sm@SD" tvg-logo="https://i.imgur.com/PGm944g.png" ,San Marino RTV Sport (720p)
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="SBSGolf.kr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/960px-SBS_Golf_logo_2018.svg.png" ,SBS Golf
-https://xyktmobile00.s.gy/PPV922_GOLF_TV
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="SetantaSports1.ru@SD" tvg-logo="https://i.imgur.com/8ANUZAu.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" ,Setanta Sports 1
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="SetantaSports1.ru@HD" tvg-logo="https://i.imgur.com/8ANUZAu.png" ,Setanta Sports 1 HD
@@ -21299,8 +21283,8 @@ http://cdn.tvmatic.net/fight.m3u8
 https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="TVRSport.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" ,TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="TVRISport.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" ,TVRI Sport [Geo-blocked]
-https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+#EXTINF:-1 group-title="⚽ Sports" tvg-id="TVRISport.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" ,TVRI Sport (1080p)
+http://202.150.172.59/TVRISport/index.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="TVSBowlingNetwork.us@SD" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg" ,TVS Bowling Network (720p)
 https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="TVSBoxing.us@SD" tvg-logo="https://i.imgur.com/30ZoF75.png" ,TVS Boxing (360p)
