@@ -20285,9 +20285,9 @@ http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 http://flussonic.linkintel.ru/tnt4/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="TNT4.ru@HD" tvg-logo="https://i.imgur.com/gBokU5i.png" ,TNT4 HD (1080p)
 http://str2.iptvhd.ru:8080/TNT_4/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="TNT.ru@SD" tvg-logo="https://i.imgur.com/T4A6rEI.png" ,TNT (576p)
+#EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="TNT.ru@SD" tvg-logo="https://i.imgur.com/T4A6rEI.png" ,TNT (Russia) (576p)
 http://stream.mcquack.net/135/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="TNT.ru@HD" tvg-logo="https://i.imgur.com/T4A6rEI.png" ,TNT HD (1080p)
+#EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="TNT.ru@HD" tvg-logo="https://i.imgur.com/T4A6rEI.png" ,TNT (Russia) HD (1080p)
 http://45.153.24.78/TNT/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="TNTInternational.ru@Belarus" tvg-logo="https://i.imgur.com/l0RGbRI.png" ,TNT International Belarus (1080p)
 http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
@@ -20345,8 +20345,6 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="U.ru@SD" tvg-logo="https://i.imgur.com/KDZvt0Q.png" ,U (720p)
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=2066519758&s=9cPc1rCGu6M932eqrifRhQ&scheme=https
-#EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="UDAR.ru@SD" tvg-logo="https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png" ,UDAR (1080p)
-http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="UgraTV.ru@SD" tvg-logo="https://i.imgur.com/561FRwI.png" ,Ugra-TV (1080p)
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="Unikum.ru@SD" tvg-logo="https://i.imgur.com/kSJZjDL.png" ,Unikum (576p)
@@ -20507,7 +20505,7 @@ https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="ArenaSport2.sk@SD" tvg-logo="https://i.imgur.com/Yq3Jf19.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" ,Arena Sport 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="ArenaSport5Premium.rs@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" ,Arena Sport 5 Premium
+#EXTINF:-1 group-title="⚽ Sports" tvg-id="ArenaSport5Premium.rs@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Arena_Sport_5_Premium_%282025%2C_short%29.png/revision/latest?cb=20260619135051" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" ,Arena Sport 5 Premium
 https://nl1.nghk.ai/SK2SRHD/index.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="Arryadia.ma@SD" tvg-logo="https://i.imgur.com/XjzK3gZ.png" ,Arryadia (720p)
 http://149.100.11.252:8000/play/a065/index.m3u8
@@ -21243,8 +21241,8 @@ http://45.167.2.101:8000/play/a0pp/index.m3u8
 http://45.5.119.43:4000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="TigoSports.hn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" ,Tigo Sports (Honduras) (1080p)
 http://168.196.127.137:6001/play/a0ay/index.m3u8
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="TigoSports.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" ,Tigo Sports (Paraguay) (1080p)
-http://45.170.130.224:8000/play/a04k/index.m3u8?hls
+#EXTINF:-1 group-title="⚽ Sports" tvg-id="TigoSports.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" ,Tigo Sports (Paraguay)
+http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="TigoSportsPlus.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" http-referrer="https://www.tigosports.com.py/" http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37" ,Tigo Sports+ (1280p)
 https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="TJKTV2.tr@SD" tvg-logo="https://i.imgur.com/3zHdkYG.png" ,TJK TV 2 (1080p) [Not 24/7]
@@ -21279,8 +21277,6 @@ https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="TVMaticFight.br@SD" tvg-logo="https://i.imgur.com/l5PBcKN.png" ,TVMatic Fight (720p)
 http://cdn.tvmatic.net/fight.m3u8
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="TVMsportPlus.mt@SD" tvg-logo="https://i.imgur.com/YIreFti.png" ,TVMsport+ (1080p)
-https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="TVRSport.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TVR_Sport_Logo_2023.svg/960px-TVR_Sport_Logo_2023.svg.png" ,TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="TVRISport.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" ,TVRI Sport (1080p)
@@ -21303,8 +21299,6 @@ https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
 http://45.181.87.106/TYCSPORTSHD/index.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="TyCSportsUSA.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" ,TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="⚽ Sports" tvg-id="UDAR.ru@SD" tvg-logo="https://mt.media/upload/iblock/2b3/2b3cf99141bf7f99cda377eec62ec084.png" ,UDAR (1080p)
-http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="Unbeaten.us@SD" tvg-logo="https://i.imgur.com/LmkNt3v.png" ,Unbeaten (1080p)
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="Unite8Sports1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_F6ILcp4Kk_UNITE8-SPORTS-1_HD_264X144.webp" ,Unite8 Sports 1 HD (1080p)
