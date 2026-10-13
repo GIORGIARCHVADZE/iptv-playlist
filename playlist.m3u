@@ -20247,7 +20247,7 @@ http://31.148.48.15/Terra_HD/index.m3u8
 http://stream.mcquack.net/111/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="TKR.ru@SD" tvg-logo="https://i.imgur.com/VqtPB7L.png" ,TKR (1080p) [Not 24/7]
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="TLC.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" ,TLC (1080p)
+#EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="TLC.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" ,TLC (Russia) (1080p)
 http://stream.mcquack.net/168/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="TNT4.ru@SD" tvg-logo="https://i.imgur.com/gBokU5i.png" ,TNT4 (576p)
 http://flussonic.linkintel.ru/tnt4/index.m3u8
@@ -20275,7 +20275,7 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
 #EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="TraceSportStars.fr@Russia" tvg-logo="https://i.imgur.com/FabFP5A.png" ,Trace Sport Stars Russia (720p)
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="TravelChannel.ru@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Travel_Channel_International.svg/revision/latest?cb=20191226223708" ,Travel Channel (1080p)
+#EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="TravelChannel.ru@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Travel_Channel_International.svg/revision/latest?cb=20191226223708" ,Travel Channel (Russia) (1080p)
 http://stream.mcquack.net/231/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Russia" tvg-id="TravelPlusAdventure.ru@SD" tvg-logo="https://i.imgur.com/AlpdXC4.png" ,Travel+Adventure (1080p)
 http://31.148.48.15/Travel_Adventure_HD/index.m3u8
@@ -20461,6 +20461,8 @@ http://88.212.15.17/live/arena4/index.m3u8
 http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="ArenaSport2.sk@SD" tvg-logo="https://i.imgur.com/Yq3Jf19.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" ,Arena Sport 2
 http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Sports" tvg-id="ArenaSportPremiumM1.mk@SD" tvg-logo="https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png" ,Arena Sport Premium M1
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="Arryadia.ma@SD" tvg-logo="https://i.imgur.com/XjzK3gZ.png" ,Arryadia (720p)
 http://149.100.11.252:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="⚽ Sports" tvg-id="AS3SportTV.ve@SD" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" ,AS3 Sport TV (1080p)
